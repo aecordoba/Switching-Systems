@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<comment>Subscribers configuration file</comment>
+	<subscribers>
+		<files-handler>
+			<input-directory>
+				/home/adrian/Development/Derqui Systems Manager/data/Subscribers/
+			</input-directory>
+		</files-handler>
+	</subscribers>
+</config>
